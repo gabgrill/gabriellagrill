@@ -8,12 +8,13 @@ body{
     margin-left: 50px;
 }
 
-h1{
+.site_title{
 	text-align: left;
 	text-decoration: underline overline wavy;
 	color:#564640;
 	display: inline-block;
 }
+
 h2 {
 	text-align: right;
 	text-decoration: underline overline wavy;
@@ -28,6 +29,7 @@ img{
 	border-color: #f9f7e2;
 	margin:45px;
 }
+
 
 
 
