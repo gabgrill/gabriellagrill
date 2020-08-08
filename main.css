@@ -23,10 +23,10 @@ h2 {
 img{
 	display: inline-block;
 	width: 250px;
-	border-style: outset;
-	border-width: 12px;
+	border-style: dashed;
+	border-width: 1px;
 	border-color: #f9f7e2;
-	margin:25px;
+	margin:45px;
 }
 
 
