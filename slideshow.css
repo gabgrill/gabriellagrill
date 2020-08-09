@@ -17,14 +17,33 @@ img{
 	align-self: center;
 }
 
+a:link, a:visited{
+	color: #000000;
+	}
+a:hover, a:active{
+	color: #ffffff
+	}
+
 .alive_on_wings{
-	background-color: #c86197;
-	color: #dfe4e7;
-	border-color: #dfe4e7;
+background-color: #d39ab6
 }
 
 .cairn{
-	background-color: #77d272;
-	color: #686246;
-	border-color: #686246;
+background-color: #39a132
+}
+
+.towel1{
+background-color: #a05c85
+}
+
+.towel2{
+background-color: #ddc37b
+}
+
+.towel3{
+background-color: #abd4dd
+}
+
+.towel4{
+background-color: #295e98
 }

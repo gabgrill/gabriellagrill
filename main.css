@@ -1,6 +1,5 @@
 body{
-	background-color: #c3c2b6;
-	color: #775041;
+	background-color: #aca9ab;
 	margin: 8px;
     margin-top: 30px;
     margin-right: 50px;
@@ -11,18 +10,18 @@ body{
 .site_title{
 	text-align: left;
 	text-decoration: underline overline wavy;
-	color:#564640;
+	color:#ffffff;
 	display: inline-block;
 }
 
 .links{
 	text-align: right;
-	text-decoration: underline overline wavy;
+	text-decoration: none;
 	display: block
 }
 
 a:link, a:visited{
-	color: #775041;
+	color: #ffffff;
 	}
 a:hover, a:active{
 	color: #fffbc6
