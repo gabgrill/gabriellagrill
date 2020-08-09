@@ -15,12 +15,20 @@ body{
 	display: inline-block;
 }
 
-h2 {
+.links{
 	text-align: right;
 	text-decoration: underline overline wavy;
-	color: #775041;
-	display: block;
+	display: block
 }
+
+a:link, a:visited{
+	color: #775041;
+	}
+a:hover, a:active{
+	color: #fffbc6
+	}
+
+
 img{
 	display: inline-block;
 	width: 250px;
