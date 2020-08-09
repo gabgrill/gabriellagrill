@@ -1,5 +1,5 @@
 body{
-	background-color: #aca9ab;
+	background-color: #fffff;
 	margin: 8px;
     margin-top: 30px;
     margin-right: 50px;
@@ -10,8 +10,9 @@ body{
 .site_title{
 	text-align: left;
 	text-decoration: underline overline wavy;
-	color:#ffffff;
-	display: inline-block;
+	color:#000000;
+	background-color: #806655
+	display: block;
 }
 
 .links{
@@ -21,10 +22,10 @@ body{
 }
 
 a:link, a:visited{
-	color: #ffffff;
+	color: #000000;
 	}
 a:hover, a:active{
-	color: #fffbc6
+	color: #806655
 	}
 
 
@@ -33,7 +34,7 @@ img{
 	width: 250px;
 	border-style: dashed;
 	border-width: 1px;
-	border-color: #f9f7e2;
+	border-color: #806655;
 	margin:45px;
 }
 
