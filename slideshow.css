@@ -5,7 +5,7 @@ body{
     margin-bottom: 8px;
     margin-left: 50px;
     text-align: center;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 img{
@@ -25,45 +25,56 @@ a:hover, a:active{
 	}
 
 .alive_on_wings{
-background-color: #d39ab6
+background-color: #d39ab6;
+font-size:15px;
 }
 
 .cairn{
-background-color: #39a132
+background-color: #39a132;
+font-size:15px;
 }
 
 .towel1{
-background-color: #a05c85
+background-color: #a05c85;
+font-size:15px;
 }
 
 .towel2{
-background-color: #ddc37b
+background-color: #ddc37b;
+font-size:15px;
 }
 
 .towel3{
-background-color: #abd4dd
+background-color: #abd4dd;
+font-size:15px;
 }
 
 .towel4{
-background-color: #295e98
+background-color: #295e98;
+font-size:15px;
 }
 
 .remainder1{
-	background-color: #b49d80
+	background-color: #b49d80;
+	font-size:15px;
 }
 
 .remainder2{
-	background-color: #b3b200
+	background-color: #b3b200;
+	font-size:15px;
 }
 
 .remainder3{
-	background-color: #e91843
+	background-color: #e91843;
+	font-size:15px;
 }
 
 .remainder4{
-	background-color: #fff054
+	background-color: #fff054;
+	font-size:15px;
 }
 
 .pin_cushion{
-	background-color: #8e675a
+	background-color: #8e675a;
+	font-size:15px;
 }
