@@ -1,11 +1,15 @@
 body{
 	background-color: #fffff;
 	margin: 8px;
-    margin-top: 30px;
+    margin-top: 0px;
     margin-right: 50px;
-    margin-bottom: 8px;
+    margin-bottom: 38px;
     margin-left: 50px;
     text-align: center;
+}
+
+h4{
+	font-size: 15px;
 }
 
 .site_title{
@@ -36,10 +40,20 @@ img{
 	border-style: dashed;
 	border-width: 1px;
 	border-color: #806655;
+	border-radius: 3px;
 	margin:45px;
 }
 
+div.figure {
+	border-style: dashed;
+	border-width: 1px;
+	border-color: #806655;
+  	text-align: left;
+  	text-indent: 0;
+}
 
-
-
-
+div.figcaption{
+	background-color: tan;
+	border-radius: top 3px;
+	width:250px;
+}
